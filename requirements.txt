@@ -1,4 +1,3 @@
-```text
-Flask
+flask
+requests
 gunicorn
-```
